@@ -8,7 +8,7 @@
 - Swift, SwiftUI, Combine
 - Moya, Alamofire, KingFisher, Charts, SwiftLint, Lottie
 - Xcode Cloud
-- TCA, MVVM
+- TCA, MVVM, VM
 
 -------------------
 
