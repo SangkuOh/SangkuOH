@@ -34,7 +34,7 @@
 
 ### ✨ Featured
 
-- SwftUI
+- SwiftUI
 - Familiar with Swift 5.5 ~
 - Design System and Components
 - DesignPatterns with VM, TCA
