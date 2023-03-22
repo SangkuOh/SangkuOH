@@ -40,7 +40,7 @@
 - DesignPatterns with VM, TCA
 - Xcode Cloud CI/CD
 - 4 Times App Launch Experience
-- Collaborate with Bing 😏
+- Collaborate with Bing AI 😏
 
 -------------------
 
