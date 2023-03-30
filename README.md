@@ -37,7 +37,7 @@
 - SwiftUI
 - Familiar with Swift 5.5 ~
 - Design System and Components
-- DesignPatterns with VM, TCA
+- DesignPatterns with VM, TCA, MVVM
 - Xcode Cloud CI/CD
 - 4 Times App Launch Experience
 - Collaborate with Bing AI 😏
