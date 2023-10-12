@@ -39,7 +39,7 @@
 - Design System and Components
 - DesignPatterns with VM, TCA, MVVM
 - Xcode Cloud CI/CD
-- 4 Times App Launch Experience
+- 5 Times App Launch Experience
 - Collaborate with Bing AI 😏
 
 -------------------
