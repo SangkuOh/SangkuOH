@@ -6,7 +6,7 @@
 ### 🍳 Skill
 
 - Swift, SwiftUI, Combine
-- Moya, Alamofire, swift concurrency, Charts, SwiftLint, Lottie
+- Moya, Alamofire, Swift concurrency, Charts, SwiftLint, Lottie
 - Xcode Cloud
 - TCA, MVVM
 
