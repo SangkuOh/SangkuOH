@@ -35,7 +35,7 @@
 ### ✨ Featured
 
 - SwiftUI
-- Familiar with Swift 5.5 ~
+- Familiar with Swift 5.7 ~
 - Design System and Components
 - DesignPatterns with TCA, MVVM
 - Xcode Cloud CI/CD
