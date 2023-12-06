@@ -39,7 +39,7 @@
 - Design System and Components
 - DesignPatterns with TCA, MVVM
 - Xcode Cloud CI/CD
-- 5 Times App Launch Experience
+- 6 Times App Launch Experience
 
 -------------------
 
