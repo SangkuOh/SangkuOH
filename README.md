@@ -16,7 +16,7 @@
 
 - **lulu-lab**
 	- 2022.9 ~
-	- SwiftUI, Combine, VM, Xcode Cloud, swiftLint
+	- SwiftUI, Combine, TCA, MVVM, Xcode Cloud, swiftLint
 - **togi**
 	- 2022.3. - 2022.8.
 	- SwiftUI, Combine, Moya, TCA, Xcode Cloud, swiftLint
