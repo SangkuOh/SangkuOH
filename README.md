@@ -48,9 +48,16 @@
 ## SOURCE
 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 쏘스의 iOS 개발을 담당하고 있습니다.
 
-- 이미지, 및 텍스트 레퍼런스 아카이브 서비스 iOS 개발 담당
-- 스프린트 방식의 체계적인 프로세스 및 Gather를 활용한 온라인, 오프라인 코어타임 진행
-- 런칭 이후 3일만에 앱스토어 17위 달성
-- MVP 이후 리서치를 통한 지속적인 업데이트 진행중
+🍀 Swift, SwiftUI 기반 어플리케이션 작성
+🍀 이미지 및 url를 추출, 사용하기 위한 extension target 개발
+🍀 xcstrings를 이용한 en, kr 로컬라이징 구축(push notification 포함)
+🍀 push notification, url scheme based 딥링크 개발
+🍀 로컬 테스팅을 위한 repository(mock/live), service(business logics) 분리 
+🍀 xcconfig를 통한 scheme 분리 및 테스팅 환경 구축
+🍀 Xcode cloud ci/cd
+🍀 100% preview build
+🍀 SwiftLint
+🍀 GA/Google crashlytics
+🍀 iOS. iPadOS, macOS universal App
 
 [![Download on the App Store](https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apps.apple.com/app/1660935438)
