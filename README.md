@@ -35,18 +35,18 @@
 ### ✨ Featured
 
 - SwiftUI
-- Familiar with Swift 5.7 ~
-- Design System and Components
-- DesignPatterns with TCA, MVVM
-- Xcode Cloud CI/CD
-- 6 Times App Launch Experience
+- Swift concurrency
+- Design system and components
+- TCA, MVVM
+- Xcode cloud CI/CD
+- 6 Times app launch experience
 
 -------------------
 
 ### Project
 
 ## SOURCE
- 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 쏘스의 iOS 개발을 담당하고 있습니다.
+디자이너의 업무 효율 개선을 위한 크로스 플랫폼 쏘스의 iOS 개발을 담당하고 있습니다.
 
 - 🍀 Swift, SwiftUI 기반 어플리케이션 작성
 - 🍀 이미지 및 url를 추출, 사용하기 위한 extension target 개발
