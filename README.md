@@ -48,6 +48,9 @@
 ## SOURCE
 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 쏘스의 iOS 개발을 담당하고 있습니다.
 
+🎉 런칭 이후 3일만에 앱스토어 17위 달성
+🎉 2024 예비창업패키지 선정
+
 - 🍀 Swift, SwiftUI 기반 어플리케이션 작성
 - 🍀 share extension 개발
 - 🍀 xcstrings를 이용한 en, kr 로컬라이징 구축(push notification 포함)
