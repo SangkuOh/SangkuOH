@@ -63,4 +63,4 @@
 - 🍀 GA/Google crashlytics
 - 🍀 iOS. iPadOS, macOS universal App
 
-[![Download on the App Store](https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://apple.co/3WKi5EA)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
