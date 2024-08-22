@@ -77,7 +77,7 @@
 
 **효과적인 커뮤니케이션 시스템**
 - Push Notification 지원
-- 딥링크를 통한 데이터조회, 워크스페이스 초대 지원
+- 딥링크를 통한 공유된 화면 이동, 워크스페이스 초대 지원
 
 **성능 최적화 및 모듈화**
 - Repository(mock/live) 및 Service(business logic) 분리
