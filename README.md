@@ -92,6 +92,6 @@
 - GA/Google Crashlytics 통합으로 사용자 행동 분석 및 오류 추적
 
 **크로스 플랫폼 지원**
-- iOS, iPadOS 지원
+- iOS, iPadOS, Web 지원
 
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
