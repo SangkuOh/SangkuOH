@@ -43,24 +43,55 @@
 
 -------------------
 
-### Project
+## Project: SOURCE
 
-## SOURCE
-디자이너의 업무 효율 개선을 위한 크로스 플랫폼 쏘스의 iOS 개발을 담당하고 있습니다.
+디자이너와의 협업 효율을 높이고 사용자 경험을 개선하기 위한 iOS 앱 프로젝트입니다.
 
-- 🎉 런칭 이후 3일만에 앱스토어 17위 달성
-- 🎉 2024 예비창업패키지 선정
+### 🌟 Overview
 
-- 🍀 Swift, SwiftUI 기반 어플리케이션 작성
-- 🍀 share extension 개발
-- 🍀 xcstrings를 이용한 en, kr 로컬라이징 구축(push notification 포함)
-- 🍀 push notification, url scheme based 딥링크 개발
-- 🍀 로컬 테스팅을 위한 repository(mock/live), service(business logics) 분리 
-- 🍀 xcconfig를 통한 scheme 분리 및 테스팅 환경 구축
-- 🍀 Xcode cloud ci/cd
-- 🍀 100% preview build
-- 🍀 SwiftLint
-- 🍀 GA/Google crashlytics
-- 🍀 iOS. iPadOS, macOS universal App
+**Description**: 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 SaaS
+
+**Tech Stack**: Swift, SwiftUI, Swift concurrency, Combine, VM
+
+**Achievements**: 
+  - 출시 3일 만에 앱스토어 17위 달성🎉
+  - 2024 예비창업패키지 선정🎉
+
+### 🛠 Key Features & Technical Highlights
+
+**Swift 및 SwiftUI 기반 어플리케이션**
+- VM 패턴 구현
+- View - Service - Network
+- protocol을 이용한 추상화
+- xcstrings를 이용한 kr/en 로컬라이징
+
+**쉽고 빠른 데이터 저장**
+- 최소한의 유저행동을 통한 이미지/텍스트 저장
+- 이미지 좌표에 코멘트 입력
+- 이미지 업로드 시 데이터 압축
+- 이미지 다운로드
+  
+**효과적인 커뮤니케이션 시스템**
+- 워크스페이스 기능으로 여러 유저의 정보 공유
+- 공개링크 생성을 통한 데이터 공유
+
+**효과적인 커뮤니케이션 시스템**
+- Push Notification 지원
+- 딥링크를 통한 데이터조회, 워크스페이스 초대 지원
+
+**성능 최적화 및 모듈화**
+- Repository(mock/live) 및 Service(business logic) 분리
+- xcconfig를 통한 scheme 관리 및 테스트 환경 구축
+
+**지속적 통합 및 배포 (CI/CD)**
+- Xcode Cloud workflow
+- 100% Preview Build 지원으로 빠른 UI 개발 및 테스트
+
+**품질 관리 및 분석**
+- SwiftLint를 활용한 코드 품질 관리
+- GA/Google Crashlytics 통합으로 사용자 행동 분석 및 오류 추적
+
+**크로스 플랫폼 지원**
+- iOS, iPadOS 지원
 
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
