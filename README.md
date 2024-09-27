@@ -94,9 +94,4 @@
 **크로스 플랫폼 지원**
 - iOS, iPadOS, Web 지원
 
-<iframe
-  title='disquiet-badge'
-  src='https://badge.disquiet.io/rank-badge?productUrlSlug=쏘스&mode=dark&rank=silver'
-/>
-
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
