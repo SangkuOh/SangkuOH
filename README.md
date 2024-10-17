@@ -51,7 +51,7 @@
 
 **Description**: 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 SaaS
 
-**Tech Stack**: Swift, SwiftUI, Swift concurrency, Combine, VM
+**Tech Stack**: Swift, SwiftUI, Swift concurrency, Combine
 
 **Achievements**: 
   - 출시 3일 만에 앱스토어 17위 달성🎉
