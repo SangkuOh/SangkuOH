@@ -1,95 +1,61 @@
-### Hi there 👋🏻
-사용자 중심의 철학으로 직관적이고 매력적인 iOS 앱을 만들고자 합니다.
+## Professional Summary  
+Senior iOS Engineer specializing in user-centric design and delivering highly intuitive, scalable SwiftUI applications. With extensive experience leveraging modern Apple frameworks (SwiftUI, Combine, Swift concurrency), architecture patterns (TCA, MVVM), and CI/CD pipelines (Xcode Cloud), I am committed to crafting performant, maintainable code that prioritizes both developer efficiency and exceptional user experiences. Skilled in guiding teams through best practices, optimizing performance, ensuring code quality, and rapidly iterating new features from concept to deployment.
 
--------------------
+## Core Skills  
+- **Languages & Frameworks:** Swift, SwiftUI, Combine  
+- **Architectures & Patterns:** TCA, MVVM, protocol-driven abstractions  
+- **Performance & Quality:** Swift concurrency, SwiftLint, GA/Google Crashlytics  
+- **CI/CD & Tooling:** Xcode Cloud, Fastlane, Moya, Alamofire, SocketIO, charts, Lottie  
+- **Design & Localization:** Design systems, xcstrings (multi-language), reusable UI components, preview-driven development
 
-### 🍳 Skill
+## Professional Experience
 
-- Swift, SwiftUI, Combine
-- Swift concurrency, SwiftLint, Lottie
-- Xcode Cloud
-- TCA, MVVM
+### Senior iOS Developer, lulu-lab (Sep. 2022 – Present)
+- Architected and delivered complex SwiftUI features using TCA and MVVM for maintainable, scalable code.
+- Managed asynchronous data flows with Combine and enforced coding standards via SwiftLint.
+- Implemented Xcode Cloud CI/CD pipelines for efficient, reliable build and release processes.
 
--------------------
+### iOS Engineer, togi (Mar. 2022 – Aug. 2022)
+- Built data-driven SwiftUI interfaces and integrated Moya for efficient API communication.
+- Utilized TCA and Combine for modular, testable state management.
+- Automated deployment with Xcode Cloud for streamlined release cycles.
 
-### 🧑🏻‍💻 Work experience
+### iOS Engineer, Fansation (Oct. 2021 – Feb. 2022)
+- Developed feature-rich SwiftUI apps using Combine, Alamofire, charts, and SocketIO for real-time functionalities.
+- Adopted MVVM for clear architectural boundaries and seamless scaling.
+- Employed SwiftLint and Fastlane to maintain code quality and accelerate releases.
 
-- **lulu-lab**
-	- 2022.9 ~
-	- SwiftUI, Combine, TCA, MVVM, Xcode Cloud, swiftLint
-- **togi**
-	- 2022.3. - 2022.8.
-	- SwiftUI, Combine, Moya, TCA, Xcode Cloud, swiftLint
-- **Fansation**
-	- 2021.10. - 2022.2.
-	- SwiftUI, Combine, Alamofire, charts, SocketIO, MVVM, swiftLint, fastlane
-- **Cloud hospital**
-	- 2021.7. - 2021.10.
-	- SwiftUI, Combine,  Alamofire, AzureCommunications, MVVM
-- **Crinac**
-	- 2020.12. - 2021.7.
-	- SwiftUI, Combine, Alamofire, MVVM
+### iOS Developer, Cloud Hospital (Jul. 2021 – Oct. 2021)
+- Crafted intuitive healthcare interfaces in SwiftUI, integrated Combine and Alamofire for data handling.
+- Incorporated Azure Communications for secure, reliable telehealth solutions.
+- Maintained high code standards with MVVM and thorough testing strategies.
 
--------------------
+### iOS Developer, Crinac (Dec. 2020 – Jul. 2021)
+- Created SwiftUI applications backed by Combine and Alamofire for robust data flows.
+- Employed MVVM for modular and easily maintainable codebases.
+- Iterated on UI/UX improvements and performance optimizations.
 
-### ✨ Featured
+## Highlighted Achievements
+- Successfully launched 6+ iOS apps, overseeing full lifecycle from ideation to App Store release.
+- Implemented custom design systems and reusable UI components, speeding up development.
+- Leveraged Swift concurrency for improved responsiveness and overall app performance.
 
-- SwiftUI
-- Swift concurrency
-- Design system and components
-- TCA, MVVM
-- Xcode cloud CI/CD
-- 6 Times app launch experience
+## Featured Project: SOURCE
+**Description:** A cross-platform SaaS solution enhancing design team efficiency.
+- **Tech Stack:** Swift, SwiftUI, Swift concurrency, Combine  
+- **Key Achievements:**  
+  - Ranked #17 on the App Store within three days of launch.  
+  - Selected for the 2024 Startup Incubation Package.  
+- **Contributions:**  
+  - Established a VM pattern with clear View-Service-Network layers and protocol-driven abstractions.  
+  - Implemented `xcstrings` for streamlined kr/en localization.  
+  - Optimized user workflows for minimal input (image-based commenting, compression).  
+  - Integrated workspaces, public links, push notifications, and deep links for collaboration and navigation.  
+  - Maintained code quality via SwiftLint, tracked user behavior with GA/Google Crashlytics, and leveraged Xcode Cloud for CI/CD.  
+  - Employed 100% SwiftUI previews for rapid UI development and iteration.
+ 
+ [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
 
--------------------
-
-## Project: SOURCE
-
-레퍼런스를 쉽게 저장하고, 생각을 공유하기 위한 프로젝트입니다.
-
-### 🌟 Overview
-
-**Description**: 디자이너의 업무 효율 개선을 위한 크로스 플랫폼 SaaS
-
-**Tech Stack**: Swift, SwiftUI, Swift concurrency, Combine
-
-**Achievements**: 
-  - 출시 3일 만에 앱스토어 17위 달성🎉
-  - 2024 예비창업패키지 선정🎉
-
-### 🛠 Key Features & Technical Highlights
-
-**Swift 및 SwiftUI 기반 어플리케이션**
-- VM 패턴 구현
-- View - Service - Network
-- protocol을 이용한 추상화
-- xcstrings를 이용한 kr/en 로컬라이징
-
-**쉽고 빠른 데이터 저장**
-- 최소한의 유저행동을 통한 이미지/텍스트 저장
-- 이미지 좌표에 코멘트 입력
-- 이미지 업로드 시 데이터 압축
-- 이미지 다운로드
-  
-**효과적인 커뮤니케이션 시스템**
-- 워크스페이스 기능으로 여러 유저의 정보 공유
-- 공개링크 생성을 통한 데이터 공유
-- Push Notification 지원
-- 딥링크를 통한 공유된 화면 이동, 워크스페이스 초대 지원
-
-**성능 최적화 및 모듈화**
-- Repository(mock/live) 및 Service(business logic) 분리
-- xcconfig를 통한 scheme 관리 및 테스트 환경 구축
-
-**지속적 통합 및 배포 (CI/CD)**
-- Xcode Cloud workflow
-- 100% Preview Build 지원으로 빠른 UI 개발 및 테스트
-
-**품질 관리 및 분석**
-- SwiftLint를 활용한 코드 품질 관리
-- GA/Google Crashlytics 통합으로 사용자 행동 분석 및 오류 추적
-
-**크로스 플랫폼 지원**
-- iOS, iPadOS, Web 지원
-
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
+## Additional Information
+- Strong communicator, effective in cross-functional team environments.
+- Committed to continuous learning and integrating emerging Apple platform best practices.
