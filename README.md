@@ -10,7 +10,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 
 ## Professional Experience
 
-### Senior iOS Developer, lulu-lab (Sep. 2022 – Present)
+### iOS Developer, lulu-lab (Sep. 2022 – Present)
 - Architected and delivered complex SwiftUI features using TCA and MVVM for maintainable, scalable code.
 - Managed asynchronous data flows with Combine and enforced coding standards via SwiftLint.
 - Implemented Xcode Cloud CI/CD pipelines for efficient, reliable build and release processes.
