@@ -5,7 +5,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 - **Languages & Frameworks:** Swift, SwiftUI, Combine  
 - **Architectures & Patterns:** TCA, MVVM, protocol-driven abstractions  
 - **Performance & Quality:** Swift concurrency, SwiftLint, GA/Google Crashlytics  
-- **CI/CD & Tooling:** Xcode Cloud, Fastlane, Moya, Alamofire, SocketIO, charts, Lottie  
+- **CI/CD & Tooling:** Xcode Cloud, Moya, Alamofire, SocketIO, charts, Lottie  
 - **Design & Localization:** Design systems, xcstrings (multi-language), reusable UI components, preview-driven development
 
 ## Professional Experience
