@@ -1,5 +1,5 @@
 ## Professional Summary  
-Senior iOS Engineer specializing in user-centric design and delivering highly intuitive, scalable SwiftUI applications. With extensive experience leveraging modern Apple frameworks (SwiftUI, Combine, Swift concurrency), architecture patterns (TCA, MVVM), and CI/CD pipelines (Xcode Cloud), I am committed to crafting performant, maintainable code that prioritizes both developer efficiency and exceptional user experiences. Skilled in guiding teams through best practices, optimizing performance, ensuring code quality, and rapidly iterating new features from concept to deployment.
+iOS Engineer specializing in user-centric design and delivering highly intuitive, scalable SwiftUI applications. With extensive experience leveraging modern Apple frameworks (SwiftUI, Combine, Swift concurrency), architecture patterns (TCA, MVVM), and CI/CD pipelines (Xcode Cloud), I am committed to crafting performant, maintainable code that prioritizes both developer efficiency and exceptional user experiences. Skilled in guiding teams through best practices, optimizing performance, ensuring code quality, and rapidly iterating new features from concept to deployment.
 
 ## Core Skills  
 - **Languages & Frameworks:** Swift, SwiftUI, Combine  
