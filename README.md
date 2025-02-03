@@ -28,7 +28,6 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 ### iOS Developer, Cloud Hospital (Jul. 2021 – Oct. 2021)
 - Crafted intuitive healthcare interfaces in SwiftUI, integrated Combine and Alamofire for data handling.
 - Incorporated Azure Communications for secure, reliable telehealth solutions.
-- Maintained high code standards with MVVM and thorough testing strategies.
 
 ### iOS Developer, Crinac (Dec. 2020 – Jul. 2021)
 - Created SwiftUI applications backed by Combine and Alamofire for robust data flows.
