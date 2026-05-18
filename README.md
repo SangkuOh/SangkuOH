@@ -52,8 +52,6 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
   - Integrated workspaces, public links, push notifications, and deep links for collaboration and navigation.  
   - Maintained code quality via SwiftLint, tracked user behavior with GA/Google Crashlytics, and leveraged Xcode Cloud for CI/CD.  
   - Employed 100% SwiftUI previews for rapid UI development and iteration.
- 
- [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1660780800)](https://apps.apple.com/app/1660935438)
 
 ## Additional Information
 - Strong communicator, effective in cross-functional team environments.
