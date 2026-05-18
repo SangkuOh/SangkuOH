@@ -58,6 +58,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 
 ### Kane - Expense Tracker
 **Description:** A minimalist paid expense ledger focused on consistent spending and income logging, available on the App Store as a Finance/Lifestyle app.
+- **App Store:** [Kane - Expense Tracker](https://apps.apple.com/us/app/kane-expense-tracker/id6757577312)
 - **Tech Stack:** Swift, SwiftUI, SwiftData, CloudKit, WidgetKit, App Groups, Swift concurrency  
 - **Product & Release:**  
   - Designed a clean, distraction-free expense tracking experience inspired by modern iOS visual language.  
@@ -67,6 +68,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 
 ### RemotePad - Remote Desktop
 **Description:** A paid remote desktop utility that turns a mobile device into a focused controller for a Mac over a local network or VPN.
+- **App Store:** [RemotePad - Remote Desktop](https://apps.apple.com/us/app/remotepad-remote-desktop/id6760531983)
 - **Tech Stack:** Swift, SwiftUI, Network.framework, QUIC/TLS direct sessions, Bonjour, AVFoundation/CoreMedia, AppKit interop  
 - **Product & Release:**  
   - Built the end-to-end host/viewer architecture for screen capture, streaming, touch, scroll, keyboard shortcut, and voice input control.  
