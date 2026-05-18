@@ -5,7 +5,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 - **Languages & Frameworks:** Swift, SwiftUI, Combine  
 - **Architectures & Patterns:** TCA, MVVM, protocol-driven abstractions  
 - **Performance & Quality:** Swift concurrency, SwiftLint, GA/Google Crashlytics  
-- **CI/CD & Tooling:** Xcode Cloud, Moya, Alamofire, SocketIO, charts, Lottie  
+- **CI/CD & Tooling:** Xcode Cloud, Moya, Alamofire, SocketIO, charts, Lottie, App Store Connect automation with `asc`  
 - **Design & Localization:** Design systems, xcstrings (multi-language), reusable UI components
 
 ## Professional Experience
@@ -36,6 +36,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 
 ## Highlighted Achievements
 - Successfully launched 6+ iOS apps, overseeing full lifecycle from ideation to App Store release.
+- Built and operated independent paid App Store products, using `asc` for App Store Connect release automation through paid, revenue-generating distribution.
 - Implemented custom design systems and reusable UI components, speeding up development.
 - Leveraged Swift concurrency for improved responsiveness and overall app performance.
 
@@ -52,6 +53,26 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
   - Integrated workspaces, public links, push notifications, and deep links for collaboration and navigation.  
   - Maintained code quality via SwiftLint, tracked user behavior with GA/Google Crashlytics, and leveraged Xcode Cloud for CI/CD.  
   - Employed 100% SwiftUI previews for rapid UI development and iteration.
+
+## Independent App Store Products
+
+### Kane - Expense Tracker
+**Description:** A minimalist paid expense ledger focused on consistent spending and income logging, available on the App Store as a Finance/Lifestyle app.
+- **Tech Stack:** Swift, SwiftUI, SwiftData, CloudKit, WidgetKit, App Groups, Swift concurrency  
+- **Product & Release:**  
+  - Designed a clean, distraction-free expense tracking experience inspired by modern iOS visual language.  
+  - Built shared ledger sync with CloudKit, widget data pipelines, multi-currency support, and localized App Store presentation.  
+  - Used `asc` to automate App Store Connect release work, including version staging, metadata reuse, build attachment, and readiness validation.  
+  - Took the product from development to a paid App Store listing and revenue-generating distribution.
+
+### RemotePad - Remote Desktop
+**Description:** A paid remote desktop utility that turns a mobile device into a focused controller for a Mac over a local network or VPN.
+- **Tech Stack:** Swift, SwiftUI, Network.framework, QUIC/TLS direct sessions, Bonjour, AVFoundation/CoreMedia, AppKit interop  
+- **Product & Release:**  
+  - Built the end-to-end host/viewer architecture for screen capture, streaming, touch, scroll, keyboard shortcut, and voice input control.  
+  - Added live connection health, permission guidance, VPN address storage, and multi-language App Store metadata.  
+  - Used `asc` for App Store Connect packaging, signing/export artifacts, metadata workflows, and paid App Store release operations.  
+  - Shipped it as a paid App Store product with revenue-generating distribution.
 
 ## Additional Information
 - Strong communicator, effective in cross-functional team environments.
