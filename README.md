@@ -64,6 +64,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
   - Designed a clean, distraction-free expense tracking experience inspired by modern iOS visual language.  
   - Built shared ledger sync with CloudKit, widget data pipelines, multi-currency support, and localized App Store presentation.  
   - Used `asc` to automate App Store Connect release work, including version staging, metadata reuse, build attachment, and readiness validation.  
+  - Reached #1 on the App Store overall paid apps chart.  
   - Took the product from development to a paid App Store listing with 663 lifetime units, $2,157.75 customer sales, and $1,857.69 developer proceeds.
 
 ### RemotePad - Remote Desktop
@@ -74,6 +75,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
   - Built the end-to-end host/viewer architecture for screen capture, streaming, touch, scroll, keyboard shortcut, and voice input control.  
   - Added live connection health, permission guidance, VPN address storage, and multi-language App Store metadata.  
   - Used `asc` for App Store Connect packaging, signing/export artifacts, metadata workflows, and paid App Store release operations.  
+  - Reached #1 in the App Store Utilities category.  
   - Shipped it as a paid App Store product with 84 lifetime units, $990.18 customer sales, and $854.16 developer proceeds.
 
 ## Additional Information
