@@ -2,11 +2,12 @@
 iOS Engineer specializing in user-centric design and delivering highly intuitive, scalable SwiftUI applications. With extensive experience leveraging modern Apple frameworks (SwiftUI, Combine, Swift concurrency), architecture patterns (TCA, MVVM), and CI/CD pipelines (Xcode Cloud), I am committed to crafting performant, maintainable code that prioritizes both developer efficiency and exceptional user experiences. Skilled in guiding teams through best practices, optimizing performance, ensuring code quality, and rapidly iterating new features from concept to deployment.
 
 ## Core Skills  
-- **Languages & Frameworks:** Swift, SwiftUI, Combine  
-- **Architectures & Patterns:** TCA, MVVM, protocol-driven abstractions  
-- **Performance & Quality:** Swift concurrency, SwiftLint, GA/Google Crashlytics  
-- **CI/CD & Tooling:** Xcode Cloud, Moya, Alamofire, SocketIO, charts, Lottie, App Store Connect automation with `asc`  
-- **Design & Localization:** Design systems, xcstrings (multi-language), reusable UI components
+- **Languages & Apple UI:** Swift, SwiftUI, Swift concurrency, Combine
+- **Data, Sync & Extensions:** SwiftData, CloudKit, CKSyncEngine, WidgetKit, App Groups, App Intents, App Clip
+- **Network, Media & Systems:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation/CoreMedia, AppKit interop
+- **Architectures & Patterns:** TCA, MVVM, POP, UDF, actor-based services, protocol-driven abstractions
+- **Performance & Quality:** Swift Testing, XCTest, SwiftLint, Instruments/xctrace, deterministic `BENCH` counters, GA/Google Crashlytics
+- **Release & Tooling:** Xcode Cloud, `xcodebuild`, App Store Connect automation with `asc`, GitHub PR/release flow, `.xcstrings` localization
 
 ## Professional Experience
 
