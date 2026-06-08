@@ -1,13 +1,19 @@
 ## Professional Summary  
-iOS Engineer specializing in user-centric design and delivering highly intuitive, scalable SwiftUI applications. With extensive experience leveraging modern Apple frameworks (SwiftUI, Combine, Swift concurrency), architecture patterns (TCA, MVVM), and CI/CD pipelines (Xcode Cloud), I am committed to crafting performant, maintainable code that prioritizes both developer efficiency and exceptional user experiences. Skilled in guiding teams through best practices, optimizing performance, ensuring code quality, and rapidly iterating new features from concept to deployment.
+AI-native iOS Engineer building and shipping Apple-platform products with Codex as the primary engineering environment. I use Codex agents, plugins, skills, scoped workspaces, and review loops as an execution layer for product research, codebase discovery, implementation, testing, release preparation, and App Store operations. My focus is not just writing Swift code faster; it is designing reliable human + AI workflows that keep architecture, validation, privacy, and shipping accountability intact.
 
 ## Core Skills  
-- **Languages & Apple UI:** Swift, SwiftUI, Swift concurrency, Combine
-- **Data, Sync & Extensions:** SwiftData, CloudKit, CKSyncEngine, WidgetKit, App Groups, App Intents, App Clip
-- **Network, Media & Systems:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation/CoreMedia, AppKit interop
-- **Architectures & Patterns:** TCA, MVVM, POP, UDF, actor-based services, protocol-driven abstractions
-- **Performance & Quality:** Swift Testing, XCTest, SwiftLint, Instruments/xctrace, deterministic `BENCH` counters, GA/Google Crashlytics
-- **Release & Tooling:** Xcode Cloud, `xcodebuild`, App Store Connect automation with `asc`, GitHub PR/release flow, `.xcstrings` localization
+- **AI-Native Engineering:** Codex App, Codex agents, plugins, skills, worktrees, scoped task design, agent review loops
+- **Apple Product Engineering:** Swift, SwiftUI, Swift concurrency, Combine, SwiftData, CloudKit, CKSyncEngine
+- **Extensions & System Integration:** WidgetKit, App Groups, App Intents, App Clip, AppKit interop, localized `.xcstrings`
+- **Network, Media & Systems:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation/CoreMedia
+- **Architecture & Workflow:** TCA, MVVM, POP, UDF, actor-based services, protocol-driven abstractions, repo-local policy design
+- **Quality, Performance & Release:** Swift Testing, XCTest, SwiftLint, Instruments/xctrace, deterministic `BENCH` counters, Xcode Cloud, `xcodebuild`, App Store Connect automation with `asc`
+
+## AI-Native Engineering Workflow
+- Use Codex as the main operating layer for real repositories, with GitHub, Linear, Build iOS Apps, Computer Use, and App Store Connect workflows connected through plugins, skills, shell evidence, and human review.
+- Turn product or release goals into scoped agent tasks with explicit file boundaries, expected outputs, validation plans, and rollback-safe git flow.
+- Keep the human role focused on architecture decisions, product judgment, privacy/security boundaries, App Store accountability, and final review.
+- Preserve engineering rigor with deterministic gates: `xcodebuild`, Swift Testing/XCTest, Instruments/xctrace, `BENCH` counters, localization normalization, PR evidence, and release closeout.
 
 ## Professional Experience
 
@@ -38,6 +44,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 ## Highlighted Achievements
 - Successfully launched 6+ iOS apps, overseeing full lifecycle from ideation to App Store release.
 - Built and operated independent paid App Store products with 747 lifetime units, $3,147.92 customer sales, and $2,711.85 developer proceeds in App Store Connect Sales and Trends.
+- Built Codex-first operating rules for production iOS repositories, combining agent execution with GitHub, Linear, App Store Connect, simulator/debug, and performance evidence workflows.
 - Implemented custom design systems and reusable UI components, speeding up development.
 - Leveraged Swift concurrency for improved responsiveness and overall app performance.
 
@@ -64,6 +71,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 - **Product & Release:**  
   - Designed a clean, distraction-free expense tracking experience inspired by modern iOS visual language.  
   - Built shared ledger sync with CloudKit, widget data pipelines, multi-currency support, and localized App Store presentation.  
+  - Maintained a Codex-first repository workflow for SwiftData/CloudKit validation, localization normalization, release evidence, and App Store operations.
   - Used `asc` to automate App Store Connect release work, including version staging, metadata reuse, build attachment, and readiness validation.  
   - Reached #1 on the App Store overall paid apps chart.  
   - Took the product from development to a paid App Store listing with 663 lifetime units, $2,157.75 customer sales, and $1,857.69 developer proceeds.
@@ -75,6 +83,7 @@ iOS Engineer specializing in user-centric design and delivering highly intuitive
 - **Product & Release:**  
   - Built the end-to-end host/viewer architecture for screen capture, streaming, touch, scroll, keyboard shortcut, and voice input control.  
   - Added live connection health, permission guidance, VPN address storage, and multi-language App Store metadata.  
+  - Used Codex-guided workflows to coordinate performance investigations, release gates, PR closeout, and evidence-backed shipping decisions.
   - Used `asc` for App Store Connect packaging, signing/export artifacts, metadata workflows, and paid App Store release operations.  
   - Reached #1 in the App Store Utilities category.  
   - Shipped it as a paid App Store product with 84 lifetime units, $990.18 customer sales, and $854.16 developer proceeds.
