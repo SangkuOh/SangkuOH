@@ -4,7 +4,6 @@ AI-native iOS Engineer building and shipping Apple-platform products with Codex 
 ## Core Skills  
 - **AI-Native Workflow:** Codex agents, plugins, skills, GitHub/Linear/App Store workflows, scoped task design
 - **Apple Product Engineering:** Swift, SwiftUI, Swift concurrency, SwiftData, CloudKit, WidgetKit, App Intents
-- **Systems & Media:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation
 - **Architecture & Quality:** UDF, POP, actor-based services, XCTest/Swift Testing, Instruments, `xcodebuild`
 - **Release Operations:** App Store Connect automation with `asc`, Xcode Cloud, localization, PR/release gates
 
