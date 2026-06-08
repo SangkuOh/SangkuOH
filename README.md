@@ -1,19 +1,17 @@
 ## Professional Summary  
-AI-native iOS Engineer building and shipping Apple-platform products with Codex as the primary engineering environment. I use Codex agents, plugins, skills, scoped workspaces, and review loops as an execution layer for product research, codebase discovery, implementation, testing, release preparation, and App Store operations. My focus is not just writing Swift code faster; it is designing reliable human + AI workflows that keep architecture, validation, privacy, and shipping accountability intact.
+AI-native iOS Engineer building and shipping Apple-platform products with Codex as the primary engineering environment. I use agents, plugins, skills, and review loops to move from product intent to implementation, validation, and App Store release while keeping architecture, privacy, and shipping accountability intact.
 
 ## Core Skills  
-- **AI-Native Engineering:** Codex App, Codex agents, plugins, skills, worktrees, scoped task design, agent review loops
-- **Apple Product Engineering:** Swift, SwiftUI, Swift concurrency, Combine, SwiftData, CloudKit, CKSyncEngine
-- **Extensions & System Integration:** WidgetKit, App Groups, App Intents, App Clip, AppKit interop, localized `.xcstrings`
-- **Network, Media & Systems:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation/CoreMedia
-- **Architecture & Workflow:** TCA, MVVM, POP, UDF, actor-based services, protocol-driven abstractions, repo-local policy design
-- **Quality, Performance & Release:** Swift Testing, XCTest, SwiftLint, Instruments/xctrace, deterministic `BENCH` counters, Xcode Cloud, `xcodebuild`, App Store Connect automation with `asc`
+- **AI-Native Workflow:** Codex agents, plugins, skills, GitHub/Linear/App Store workflows, scoped task design
+- **Apple Product Engineering:** Swift, SwiftUI, Swift concurrency, SwiftData, CloudKit, WidgetKit, App Intents
+- **Systems & Media:** Network.framework, QUIC/TLS, Bonjour, ScreenCaptureKit, VideoToolbox, AVFoundation
+- **Architecture & Quality:** UDF, POP, actor-based services, XCTest/Swift Testing, Instruments, `xcodebuild`
+- **Release Operations:** App Store Connect automation with `asc`, Xcode Cloud, localization, PR/release gates
 
-## AI-Native Engineering Workflow
-- Use Codex as the main operating layer for real repositories, with GitHub, Linear, Build iOS Apps, Computer Use, and App Store Connect workflows connected through plugins, skills, shell evidence, and human review.
-- Turn product or release goals into scoped agent tasks with explicit file boundaries, expected outputs, validation plans, and rollback-safe git flow.
-- Keep the human role focused on architecture decisions, product judgment, privacy/security boundaries, App Store accountability, and final review.
-- Preserve engineering rigor with deterministic gates: `xcodebuild`, Swift Testing/XCTest, Instruments/xctrace, `BENCH` counters, localization normalization, PR evidence, and release closeout.
+## How I Work
+- Codex is the operating layer: agents handle scoped implementation, repo discovery, documentation, and validation work.
+- Plugins and skills connect the workflow to GitHub, Linear, iOS build/test tooling, visual QA, and App Store operations.
+- Human review stays focused on product judgment, architecture, privacy, performance, and release accountability.
 
 ## Professional Experience
 
@@ -43,8 +41,8 @@ AI-native iOS Engineer building and shipping Apple-platform products with Codex 
 
 ## Highlighted Achievements
 - Successfully launched 6+ iOS apps, overseeing full lifecycle from ideation to App Store release.
-- Built and operated independent paid App Store products with 747 lifetime units, $3,147.92 customer sales, and $2,711.85 developer proceeds in App Store Connect Sales and Trends.
-- Built Codex-first operating rules for production iOS repositories, combining agent execution with GitHub, Linear, App Store Connect, simulator/debug, and performance evidence workflows.
+- Built and operated independent paid App Store products, including #1 paid chart and #1 Utilities category results.
+- Built Codex-first operating rules for production iOS repositories, combining agent execution with GitHub, Linear, App Store Connect, simulator/debug, and performance evidence.
 - Implemented custom design systems and reusable UI components, speeding up development.
 - Leveraged Swift concurrency for improved responsiveness and overall app performance.
 
@@ -67,26 +65,24 @@ AI-native iOS Engineer building and shipping Apple-platform products with Codex 
 ### Kane - Expense Tracker
 **Description:** A minimalist paid expense ledger focused on consistent spending and income logging, available on the App Store as a Finance/Lifestyle app.
 - **App Store:** [Kane - Expense Tracker](https://apps.apple.com/us/app/kane-expense-tracker/id6757577312)
-- **Tech Stack:** Swift, SwiftUI, SwiftData, CloudKit, WidgetKit, App Groups, Swift concurrency  
+- **Focus:** SwiftUI product craft, SwiftData/CloudKit sync, widgets, localization, and App Store release operations
 - **Product & Release:**  
   - Designed a clean, distraction-free expense tracking experience inspired by modern iOS visual language.  
-  - Built shared ledger sync with CloudKit, widget data pipelines, multi-currency support, and localized App Store presentation.  
-  - Maintained a Codex-first repository workflow for SwiftData/CloudKit validation, localization normalization, release evidence, and App Store operations.
-  - Used `asc` to automate App Store Connect release work, including version staging, metadata reuse, build attachment, and readiness validation.  
+  - Built shared ledger sync, widget data pipelines, multi-currency support, and localized App Store presentation.
+  - Ran a Codex-first repository workflow for validation, release evidence, and App Store operations.
   - Reached #1 on the App Store overall paid apps chart.  
-  - Took the product from development to a paid App Store listing with 663 lifetime units, $2,157.75 customer sales, and $1,857.69 developer proceeds.
+  - Took the product from development to a paid App Store listing.
 
 ### RemotePad - Remote Desktop
 **Description:** A paid remote desktop utility that turns a mobile device into a focused controller for a Mac over a local network or VPN.
 - **App Store:** [RemotePad - Remote Desktop](https://apps.apple.com/us/app/remotepad-remote-desktop/id6760531983)
-- **Tech Stack:** Swift, SwiftUI, Network.framework, QUIC/TLS direct sessions, Bonjour, AVFoundation/CoreMedia, AppKit interop  
+- **Focus:** SwiftUI, direct QUIC/TLS sessions, Bonjour discovery, screen streaming, input control, and macOS/iPadOS release flow
 - **Product & Release:**  
   - Built the end-to-end host/viewer architecture for screen capture, streaming, touch, scroll, keyboard shortcut, and voice input control.  
   - Added live connection health, permission guidance, VPN address storage, and multi-language App Store metadata.  
-  - Used Codex-guided workflows to coordinate performance investigations, release gates, PR closeout, and evidence-backed shipping decisions.
-  - Used `asc` for App Store Connect packaging, signing/export artifacts, metadata workflows, and paid App Store release operations.  
+  - Used Codex-guided workflows to coordinate performance investigations, release gates, PR closeout, and shipping decisions.
   - Reached #1 in the App Store Utilities category.  
-  - Shipped it as a paid App Store product with 84 lifetime units, $990.18 customer sales, and $854.16 developer proceeds.
+  - Shipped it as a paid App Store product.
 
 ## Additional Information
 - Strong communicator, effective in cross-functional team environments.
