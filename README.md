@@ -8,6 +8,7 @@ I'm an iOS engineer in Seoul, focused on solving users' problems through the app
 
 - **US$4,274.15 in combined App Store sales** across Evoke, Kane, and hesti, January 1–October 18, 2026 (UTC). This is App Store Connect's estimated USD Sales, including apps and in-app purchases, not developer proceeds.
 - **No. 1 on the App Store's overall paid-app chart — Kane.** [Public chart record](https://www.threads.com/@kuro_mode/post/DUAolkpjwPe), posted January 27, 2026.
+- **No. 1 in Utilities and No. 9 overall on the paid iPad app charts — Evoke, then named RemotePad.** [Original ranking screenshots](https://www.threads.com/@kuro_mode/post/DWtglgtj5zh), posted April 4, 2026.
 - **Three apps independently built, released, and operated**, including store submissions, localization, customer support, and updates after launch.
 
 <details>
@@ -39,7 +40,7 @@ Evoke is for people who want to work with their Mac's documents and apps from an
 
 I also worked on the less visible parts of that experience: explaining required permissions and connection failures, and helping users reconnect when a session ends.
 
-**Result:** independently built and released both sides as a paid product. I continue to operate the app under its current name, Evoke, handling localization, releases, customer questions, and improvements after launch.
+**Result:** independently built and released both sides as a paid product; reached **No. 1 in Utilities and No. 9 overall on the paid iPad app charts** under its original name, RemotePad. The [original ranking screenshots](https://www.threads.com/@kuro_mode/post/DWtglgtj5zh) were posted April 4, 2026. I continue to operate Evoke, handling localization, releases, customer questions, and improvements after launch.
 
 [App Store](https://apps.apple.com/app/id6760531983) · [Early demo video](https://www.threads.com/@kuro_mode/post/DWsGsJjD0RR) · [RemotePad → Evoke](https://www.threads.com/@kuro_mode/post/DdP5XNFj843)
 
