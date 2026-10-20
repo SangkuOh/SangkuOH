@@ -1,6 +1,6 @@
 # Sangku Oh
 
-I'm an iOS engineer in Seoul. I've been building iOS products since 2020, and now design, build, and run **Evoke, Kane, and hesti**. I work on the app itself, the connections and data behind it, and what happens after it reaches the App Store.
+I'm an iOS engineer in Seoul, focused on solving users' problems through the apps they use. I've been building iOS products since 2020, and now design, build, and run **Evoke, Kane, and hesti**.
 
 [Apps & screenshots](https://kane-apps.kuromode.chatgpt.site/en/) · [LinkedIn](https://www.linkedin.com/in/sangku824/) · [Build notes on Threads](https://www.threads.com/@kuro_mode)
 
@@ -50,8 +50,8 @@ I built a recipe notebook that carries ingredients and instructions into a guide
 - **Open source:** [Build AndroidOS Apps](https://github.com/SangkuOh/build-androidos-apps) and [Build Flutter Apps](https://github.com/SangkuOh/build-flutter-apps), Codex plugins with workflows and helpers for building, inspecting, and profiling apps.
 - **Earlier product work:** iOS skin and hair analysis apps with BLE/Wi-Fi device integration at lululab; the iOS/iPadOS app for **SOURCE**, a shared reference and image archive for designers and planners.
 
-## What I'm working toward
+## What I care about
 
-I'm interested in apps that connect Apple devices, real-time video and input, and spatial interfaces on visionOS. I'm also exploring how AI tools can help a small team build and operate products while keeping the results easy to check.
+As an iOS engineer, I'm interested in understanding the problems people run into and solving them on the client side. I care about how an app's features and interactions help people do what they came to do, and improving them through actual use and feedback.
 
 A recent [delivery-log prototype](https://www.threads.com/@kuro_mode/post/Del7uycjwYp) started with drivers sharing delivery times and photos in a chat. It's a work in progress, with a public demo rather than a released product.
